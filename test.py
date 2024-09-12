@@ -1,1 +1,1 @@
-prin('Kem cho!,v2')
+print('Kem cho!,v2')
